@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "learn.asp.net.core", "learn
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "learn.asp.net.WebAPI2", "learn.asp.net.WebAPI2\learn.asp.net.WebAPI2.csproj", "{2B974CB7-AC3B-4602-8FD2-4086092CB358}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "learn.asp.net.MVC", "learn.asp.net.MVC\learn.asp.net.MVC.csproj", "{41317B79-2929-46B1-B84F-148562E42075}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{2B974CB7-AC3B-4602-8FD2-4086092CB358}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B974CB7-AC3B-4602-8FD2-4086092CB358}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2B974CB7-AC3B-4602-8FD2-4086092CB358}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41317B79-2929-46B1-B84F-148562E42075}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41317B79-2929-46B1-B84F-148562E42075}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41317B79-2929-46B1-B84F-148562E42075}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41317B79-2929-46B1-B84F-148562E42075}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
