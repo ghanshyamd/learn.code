@@ -5,11 +5,11 @@ VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "learn.asp.net", "learn.asp.net\learn.asp.net.csproj", "{BADAF546-AB7F-4942-A6D1-A71EF807D193}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "learn.asp.net.WebAPI2", "learn.asp.net.WebAPI2\learn.asp.net.WebAPI2\learn.asp.net.WebAPI2.csproj", "{2B974CB7-AC3B-4602-8FD2-4086092CB358}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "learn.csharp", "learn.csharp\learn.csharp.csproj", "{84B0D150-9347-4117-B065-42008BAD952C}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "learn.asp.net.core", "learn.asp.net.core\learn.asp.net.core.csproj", "{8D2F103E-2890-4A27-8F08-6148E8AD163B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "learn.asp.net.WebAPI2", "learn.asp.net.WebAPI2\learn.asp.net.WebAPI2.csproj", "{2B974CB7-AC3B-4602-8FD2-4086092CB358}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,10 +21,6 @@ Global
 		{BADAF546-AB7F-4942-A6D1-A71EF807D193}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BADAF546-AB7F-4942-A6D1-A71EF807D193}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BADAF546-AB7F-4942-A6D1-A71EF807D193}.Release|Any CPU.Build.0 = Release|Any CPU
-		{2B974CB7-AC3B-4602-8FD2-4086092CB358}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2B974CB7-AC3B-4602-8FD2-4086092CB358}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2B974CB7-AC3B-4602-8FD2-4086092CB358}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2B974CB7-AC3B-4602-8FD2-4086092CB358}.Release|Any CPU.Build.0 = Release|Any CPU
 		{84B0D150-9347-4117-B065-42008BAD952C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{84B0D150-9347-4117-B065-42008BAD952C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{84B0D150-9347-4117-B065-42008BAD952C}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -33,6 +29,10 @@ Global
 		{8D2F103E-2890-4A27-8F08-6148E8AD163B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D2F103E-2890-4A27-8F08-6148E8AD163B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8D2F103E-2890-4A27-8F08-6148E8AD163B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B974CB7-AC3B-4602-8FD2-4086092CB358}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B974CB7-AC3B-4602-8FD2-4086092CB358}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B974CB7-AC3B-4602-8FD2-4086092CB358}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B974CB7-AC3B-4602-8FD2-4086092CB358}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
